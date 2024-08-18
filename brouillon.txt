@@ -1,0 +1,7 @@
+- Map ( rectangle )
+
+- Pygame
+
+- trous
+
+- balles ( 1 balle blanche - 14 boules - 1 boule noar )
